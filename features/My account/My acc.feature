@@ -18,3 +18,12 @@ Feature: HP
        And Verify that Create My Account page is displayed
        And Verify that Fb icon is displayed
        Then Fill greeting Mr or Mrs or Miss
+       And fill first name
+       And fill last name
+       And fill email
+       And fill confirm email
+       And fill password
+       And fill confirm password
+       Then press on Create your account button
+       When user is created he should see Welcome first and last name
+       And verify that breadcrumbs are present:  Home My Account Personal Info & Subscriptions

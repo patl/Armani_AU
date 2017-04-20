@@ -39,6 +39,8 @@ GEM
       websocket (~> 1.0)
     watir (6.2.1)
       selenium-webdriver (~> 3.0)
+    watir-webdriver (0.9.9)
+      selenium-webdriver (>= 2.46.2)
     websocket (1.2.4)
 
 PLATFORMS
@@ -48,7 +50,8 @@ DEPENDENCIES
   cucumber
   rspec
   selenium-webdriver (~> 3.3)
-  watir
+  watir (~> 6.2)
+  watir-webdriver (~> 0.9.1)
 
 BUNDLED WITH
    1.14.6

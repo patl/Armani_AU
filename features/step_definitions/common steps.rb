@@ -34,6 +34,6 @@ end
 
 And(/^close the newsletter pop\-up$/) do
   @browser.element(:css, "div.pull_right.modal_content").present? == true
-  @browser.element(:class, "ui-dialog-titlebar-close").wait_until_present.click
+  @browser.element(:class, "ui-dialog-titlebar-close").when_present.click
 end
 
