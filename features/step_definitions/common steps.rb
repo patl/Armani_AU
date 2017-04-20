@@ -7,8 +7,8 @@ Given(/^open the site$/) do
   @browser = Watir::Browser.new :chrome
   @browser.cookies.clear
   @browser.window.maximize
-  #@browser.goto 'http://storefront:loreal1@dev25-emea-loreal.demandware.net/on/demandware.store/Sites-armani-au-Site'
-  @browser.goto 'http://storefront:loreal1@staging-apac-loreal.demandware.net/on/demandware.store/Sites-armani-au-Site'
+  @browser.goto 'https://storefront:loreal1@dev25-emea-loreal.demandware.net/on/demandware.store/Sites-armani-au-Site'
+  #@browser.goto 'https://storefront:loreal1@staging-apac-loreal.demandware.net/on/demandware.store/Sites-armani-au-Site'
   begin
     alert = @browser.alert.exists?
     if alert == true
@@ -33,7 +33,7 @@ end
 
 
 And(/^close the newsletter pop\-up$/) do
-  @browser.element(:css, "div.pull_right.modal_content").present? == true
+  @browser.element(:css, "div.pull_right.modal_content").visible?
   @browser.element(:class, "ui-dialog-titlebar-close").when_present.click
 end
 

@@ -1,27 +1,27 @@
 When(/^the HP is opened verify that header is displayed$/) do
-  @browser.element(:class, "content").present? == true
+  @browser.element(:class, "content").visible?
 end
 
 Then(/^verify that menu is displayed$/) do
-  @browser.element(:css, "div.navigation.js_menu_initialized > div.full-width").present? == true
+  @browser.element(:css, "div.navigation.js_menu_initialized > div.full-width").visible?
 end
 
 Then(/^verify that carousel is present$/) do
-  @browser.element(:class, "product_category").present? == true
+  @browser.element(:class, "image_hold").visible?
 end
 
 Then(/^verify that Products are present$/) do
-  @browser.element(:class, "product_tile_wrapper").present? == true
+  @browser.element(:class, "product_tile_wrapper").visible?
 end
 
 And(/^check that content slots are displayed$/) do
-  @browser.element(:class, "hp_slot_3").present? == true
-  @browser.element(:class, "newsletter_holder").present? == true
-  @browser.element(:class, "iconic_product_holder").present? == true
-  @browser.element(:id, "olapic_specific_widget").present? == true
-  @browser.element(:class, "hp_slot_6").present? == true
-  @browser.element(:class, "hp_slot_7").present? == true
-  @browser.element(:class, "hp_slot_8").present? == true
-  @browser.element(:class, "hp_slot_9").present? == true
-  @browser.element(:class, "footer").present? == true
+  @browser.element(:class, "hp_slot_3").visible?
+  @browser.element(:class, "newsletter_holder").visible?
+  @browser.element(:class, "iconic_product_holder").visible?
+  @browser.element(:id, "olapic_specific_widget").visible?
+  @browser.element(:class, "hp_slot_6").visible?
+  @browser.element(:class, "hp_slot_7").visible?
+  @browser.element(:class, "hp_slot_8").visible?
+  @browser.element(:class, "hp_slot_9").visible?
+  @browser.element(:class, "footer").visible?
 end

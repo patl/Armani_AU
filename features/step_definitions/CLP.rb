@@ -16,5 +16,15 @@ When(/^makeup is displayed verify that submenu with items is displayed$/) do
 end
 
 Then(/^user checked elements on the Make up LP$/) do
-  pending
+  @browser.element(:class, "header_image").visible?
+  @browser.element(:id, "F1_MAKE_UP_FACE-1").visible?
+  @browser.element(:class, "view_btn").visible?
+  @browser.element(:id, "F1_MAKE_UP_LIPS-1").visible?
+  @browser.element(:id, "F1_MAKE_UP_EYE-1").visible?
+  @browser.element(:id, "F1_MAKE_UP_ACCESSORIES-1").visible?
+  @browser.element(:class, "push_image").visible?
+  @browser.element(:class, "iconic_product_container") .visible?
+  @browser.element(:class, "mozaic_push_content").visible?
+  @browser.element(:id,"F1_MAKE_UP_COLLECTIONS-1").visible?
+  @browser.element(:class, "bottom_push").visible?
 end
