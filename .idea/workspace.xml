@@ -13,34 +13,34 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__Fill_the_Create_account_form.coverage" NAME="Scenario: Fill the Create account form Coverage Results" MODIFIED="1492672920369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
+    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__Make_Up__2_.coverage" NAME="Scenario: Make Up (2) Coverage Results" MODIFIED="1492626286992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
     <SUITE FILE_PATH="coverage/Armani_AU@Scenario__Press_on_my_acc_from_header__1_.coverage" NAME="Scenario: Press on my acc from header (1) Coverage Results" MODIFIED="1492603882255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
-    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__QV_from_HP.coverage" NAME="Scenario: QV from HP Coverage Results" MODIFIED="1492679752934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
-    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__Fill_the_Create_account_form__2_.coverage" NAME="Scenario: Fill the Create account form (2) Coverage Results" MODIFIED="1492609709719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
-    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__Make_Up__1_.coverage" NAME="Scenario: Make Up (1) Coverage Results" MODIFIED="1492676403506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
-    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__Verify_that_element_are_present_on_HP.coverage" NAME="Scenario: Verify that element are present on HP Coverage Results" MODIFIED="1492673074817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
-    <SUITE FILE_PATH="coverage/Armani_AU@IRB_console__Armani_AU.coverage" NAME="IRB console: Armani_AU Coverage Results" MODIFIED="1492673650680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
-    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__QV___navigate_to_My_cart_page__1_.coverage" NAME="Scenario: QV - navigate to My cart page (1) Coverage Results" MODIFIED="1492682989179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
+    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__QV___navigate_to_My_cart_page__2_.coverage" NAME="Scenario: QV - navigate to My cart page (2) Coverage Results" MODIFIED="1492683136741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
+    <SUITE FILE_PATH="coverage/Armani_AU@All_features_in_CLP__Armani_AU.coverage" NAME="All features in CLP: Armani_AU Coverage Results" MODIFIED="1492675938045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
     <SUITE FILE_PATH="coverage/Armani_AU@Scenario__QV_from_HP__4_.coverage" NAME="Scenario: QV from HP (4) Coverage Results" MODIFIED="1492681445528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
-    <SUITE FILE_PATH="coverage/Armani_AU@My_acc_feature.coverage" NAME="My acc.feature Coverage Results" MODIFIED="1492603128677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
-    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__QV_from_HP__2_.coverage" NAME="Scenario: QV from HP (2) Coverage Results" MODIFIED="1492680076135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
     <SUITE FILE_PATH="coverage/Armani_AU@Hp_feature.coverage" NAME="Hp.feature Coverage Results" MODIFIED="1492673606164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
     <SUITE FILE_PATH="coverage/Armani_AU@Scenario__Fill_the_Create_account_form__5_.coverage" NAME="Scenario: Fill the Create account form (5) Coverage Results" MODIFIED="1492604240556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
-    <SUITE FILE_PATH="coverage/Armani_AU@CLP_feature.coverage" NAME="CLP.feature Coverage Results" MODIFIED="1492676064380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
-    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__Make_Up__2_.coverage" NAME="Scenario: Make Up (2) Coverage Results" MODIFIED="1492626286992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
-    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__Fill_the_Create_account_form__3_.coverage" NAME="Scenario: Fill the Create account form (3) Coverage Results" MODIFIED="1492604089559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
-    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__Make_Up.coverage" NAME="Scenario: Make Up Coverage Results" MODIFIED="1492676207147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
-    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__QV___navigate_to_My_cart_page.coverage" NAME="Scenario: QV - navigate to My cart page Coverage Results" MODIFIED="1492682828347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
-    <SUITE FILE_PATH="coverage/Armani_AU@QV_feature.coverage" NAME="QV.feature Coverage Results" MODIFIED="1492683153820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
-    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__Verify_that_element_are_present_on_HP__1_.coverage" NAME="Scenario: Verify that element are present on HP (1) Coverage Results" MODIFIED="1492673412915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
-    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__Fill_the_Create_account_form__1_.coverage" NAME="Scenario: Fill the Create account form (1) Coverage Results" MODIFIED="1492608231048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
-    <SUITE FILE_PATH="coverage/Armani_AU@All_features_in_features__Armani_AU.coverage" NAME="All features in features: Armani_AU Coverage Results" MODIFIED="1492672761989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
-    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__QV_from_HP__1_.coverage" NAME="Scenario: QV from HP (1) Coverage Results" MODIFIED="1492680009081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
-    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__QV___navigate_to_My_cart_page__2_.coverage" NAME="Scenario: QV - navigate to My cart page (2) Coverage Results" MODIFIED="1492683136741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
-    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__Fill_the_Create_account_form.coverage" NAME="Scenario: Fill the Create account form Coverage Results" MODIFIED="1492672920369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
-    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__Press_on_my_acc_from_header.coverage" NAME="Scenario: Press on my acc from header Coverage Results" MODIFIED="1492672865248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
     <SUITE FILE_PATH="coverage/Armani_AU@Scenario__Fill_the_Create_account_form__4_.coverage" NAME="Scenario: Fill the Create account form (4) Coverage Results" MODIFIED="1492604156607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
-    <SUITE FILE_PATH="coverage/Armani_AU@All_features_in_CLP__Armani_AU.coverage" NAME="All features in CLP: Armani_AU Coverage Results" MODIFIED="1492675938045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
+    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__Make_Up.coverage" NAME="Scenario: Make Up Coverage Results" MODIFIED="1492676207147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
+    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__Fill_the_Create_account_form__2_.coverage" NAME="Scenario: Fill the Create account form (2) Coverage Results" MODIFIED="1492609709719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
+    <SUITE FILE_PATH="coverage/Armani_AU@My_acc_feature.coverage" NAME="My acc.feature Coverage Results" MODIFIED="1492603128677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
+    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__QV___navigate_to_My_cart_page.coverage" NAME="Scenario: QV - navigate to My cart page Coverage Results" MODIFIED="1492682828347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
+    <SUITE FILE_PATH="coverage/Armani_AU@All_features_in_features__Armani_AU.coverage" NAME="All features in features: Armani_AU Coverage Results" MODIFIED="1492672761989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
+    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__QV_from_HP__2_.coverage" NAME="Scenario: QV from HP (2) Coverage Results" MODIFIED="1492680076135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
+    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__Fill_the_Create_account_form__1_.coverage" NAME="Scenario: Fill the Create account form (1) Coverage Results" MODIFIED="1492608231048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
+    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__Make_Up__1_.coverage" NAME="Scenario: Make Up (1) Coverage Results" MODIFIED="1492676403506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
+    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__Verify_that_element_are_present_on_HP.coverage" NAME="Scenario: Verify that element are present on HP Coverage Results" MODIFIED="1492673074817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
+    <SUITE FILE_PATH="coverage/Armani_AU@CLP_feature.coverage" NAME="CLP.feature Coverage Results" MODIFIED="1492676064380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
+    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__Press_on_my_acc_from_header.coverage" NAME="Scenario: Press on my acc from header Coverage Results" MODIFIED="1492672865248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
+    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__QV___navigate_to_My_cart_page__1_.coverage" NAME="Scenario: QV - navigate to My cart page (1) Coverage Results" MODIFIED="1492682989179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
+    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__QV_from_HP.coverage" NAME="Scenario: QV from HP Coverage Results" MODIFIED="1492679752934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
+    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__QV_from_HP__1_.coverage" NAME="Scenario: QV from HP (1) Coverage Results" MODIFIED="1492680009081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
+    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__Fill_the_Create_account_form__3_.coverage" NAME="Scenario: Fill the Create account form (3) Coverage Results" MODIFIED="1492604089559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
     <SUITE FILE_PATH="coverage/Armani_AU@Scenario__QV_from_HP__3_.coverage" NAME="Scenario: QV from HP (3) Coverage Results" MODIFIED="1492681353517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
+    <SUITE FILE_PATH="coverage/Armani_AU@QV_feature.coverage" NAME="QV.feature Coverage Results" MODIFIED="1492683153820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
+    <SUITE FILE_PATH="coverage/Armani_AU@IRB_console__Armani_AU.coverage" NAME="IRB console: Armani_AU Coverage Results" MODIFIED="1492673650680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
+    <SUITE FILE_PATH="coverage/Armani_AU@Scenario__Verify_that_element_are_present_on_HP__1_.coverage" NAME="Scenario: Verify that element are present on HP (1) Coverage Results" MODIFIED="1492673412915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Armani_AU" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -55,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/features/My account/My acc.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -65,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/features/HP/Hp.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="35" />
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -75,7 +75,7 @@
         <entry file="file://$PROJECT_DIR$/features/step_definitions/HP.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
-              <caret line="26" column="3" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+              <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -85,7 +85,7 @@
         <entry file="file://$PROJECT_DIR$/features/step_definitions/common steps.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="39" lean-forward="false" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+              <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -95,7 +95,7 @@
         <entry file="file://$PROJECT_DIR$/features/CLP/CLP.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -105,7 +105,7 @@
         <entry file="file://$PROJECT_DIR$/features/step_definitions/CLP.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
-              <caret line="24" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+              <caret line="24" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -114,8 +114,8 @@
       <file leaf-file-name="checkout flow.feature" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/features/QV from Hp/checkout flow.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="48" column="7" lean-forward="false" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
+            <state relative-caret-position="612">
+              <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -124,8 +124,8 @@
       <file leaf-file-name="QV.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/step_definitions/QV.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="471">
-              <caret line="52" column="81" lean-forward="false" selection-start-line="52" selection-start-column="81" selection-end-line="52" selection-end-column="81" />
+            <state relative-caret-position="884">
+              <caret line="52" column="81" selection-start-line="52" selection-start-column="81" selection-end-line="52" selection-end-column="81" />
               <folding />
             </state>
           </provider>
@@ -135,7 +135,7 @@
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -170,10 +170,19 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1912" />
-    <option name="y" value="22" />
+    <option name="x" value="-7" />
     <option name="width" value="1696" />
-    <option name="height" value="1066" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -191,8 +200,15 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Armani_AU" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Armani_AU" />
@@ -237,7 +253,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -264,7 +279,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="C:\Users\Yuliya\Documents\GitHub\Armani_AU\features\QV from Hp\checkout flow.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/../../../../../Yuliya/Documents/GitHub/Armani_AU/features/QV from Hp/checkout flow.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
@@ -296,7 +311,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="C:\Users\Yuliya\Documents\GitHub\Armani_AU\features\QV from Hp\checkout flow.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/../../../../../Yuliya/Documents/GitHub/Armani_AU/features/QV from Hp/checkout flow.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^QV from HP$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
@@ -328,7 +343,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="C:\Users\Yuliya\Documents\GitHub\Armani_AU\features\QV from Hp\checkout flow.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/../../../../../Yuliya/Documents/GitHub/Armani_AU/features/QV from Hp/checkout flow.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^QV \- navigate to My cart page$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
@@ -360,7 +375,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="C:\Users\Yuliya\Documents\GitHub\Armani_AU\features\QV from Hp\checkout flow.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/../../../../../Yuliya/Documents/GitHub/Armani_AU/features/QV from Hp/checkout flow.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^QV \- navigate to My cart page$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
@@ -392,7 +407,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="C:\Users\Yuliya\Documents\GitHub\Armani_AU\features\QV from Hp\checkout flow.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/../../../../../Yuliya/Documents/GitHub/Armani_AU/features/QV from Hp/checkout flow.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^QV \- navigate to My cart page$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
@@ -451,12 +466,6 @@
       <IRB_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
       <IRB_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <IRB_RUN_CONFIG NAME="IS_RAILS_CONSOLE" VALUE="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -537,7 +546,7 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
+      <command value="run-script" />
       <scripts />
       <node-interpreter value="project" />
       <envs />
@@ -552,11 +561,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Cucumber.QV.feature" />
-        <item index="1" class="java.lang.String" itemvalue="Cucumber.Scenario: QV - navigate to My cart page (2)" />
-        <item index="2" class="java.lang.String" itemvalue="Cucumber.Scenario: QV - navigate to My cart page (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Cucumber.Scenario: QV - navigate to My cart page" />
-        <item index="4" class="java.lang.String" itemvalue="Cucumber.Scenario: QV from HP (4)" />
+        <item index="0" class="java.lang.String" itemvalue="Cucumber.Scenario: QV - navigate to My cart page (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Cucumber.Scenario: QV - navigate to My cart page (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Cucumber.Scenario: QV - navigate to My cart page" />
+        <item index="3" class="java.lang.String" itemvalue="Cucumber.Scenario: QV from HP (4)" />
+        <item index="4" class="java.lang.String" itemvalue="Cucumber.QV.feature" />
       </list>
     </recent_temporary>
   </component>
@@ -574,6 +583,7 @@
       <workItem from="1492603076784" duration="8241000" />
       <workItem from="1492615005917" duration="3320000" />
       <workItem from="1492669286254" duration="13588000" />
+      <workItem from="1492686016180" duration="12000" />
     </task>
     <servers />
   </component>
@@ -610,29 +620,29 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27313000" />
+    <option name="totallyTimeSpent" value="27325000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="22" width="1696" height="1066" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="0" width="1696" height="1047" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17787287" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1797066" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33548388" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33548388" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -656,8 +666,56 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/features/My account/My acc.feature">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/HP/Hp.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/HP.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/common steps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/CLP/CLP.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/CLP.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/My account/My acc.feature">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
-          <caret line="28" column="12" lean-forward="false" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -665,7 +723,7 @@
     <entry file="file://$PROJECT_DIR$/features/step_definitions/common steps.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
           <folding />
         </state>
       </provider>
@@ -673,7 +731,7 @@
     <entry file="file://$PROJECT_DIR$/features/CLP/CLP.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -681,7 +739,7 @@
     <entry file="file://$PROJECT_DIR$/features/step_definitions/CLP.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="79" lean-forward="false" selection-start-line="14" selection-start-column="79" selection-end-line="14" selection-end-column="79" />
+          <caret line="14" column="79" selection-start-line="14" selection-start-column="79" selection-end-line="14" selection-end-column="79" />
           <folding />
         </state>
       </provider>
@@ -689,7 +747,7 @@
     <entry file="file://$PROJECT_DIR$/features/step_definitions/my_acc.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1105">
-          <caret line="65" column="89" lean-forward="false" selection-start-line="65" selection-start-column="6" selection-end-line="65" selection-end-column="89" />
+          <caret line="65" column="89" selection-start-line="65" selection-start-column="6" selection-end-line="65" selection-end-column="89" />
           <folding />
         </state>
       </provider>
@@ -697,7 +755,7 @@
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
           <folding />
         </state>
       </provider>
@@ -705,7 +763,7 @@
     <entry file="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/watir-webdriver-0.9.9/lib/watir-webdriver/elements/element.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3026">
-          <caret line="178" column="61" lean-forward="false" selection-start-line="178" selection-start-column="20" selection-end-line="178" selection-end-column="61" />
+          <caret line="178" column="61" selection-start-line="178" selection-start-column="20" selection-end-line="178" selection-end-column="61" />
           <folding />
         </state>
       </provider>
@@ -713,7 +771,7 @@
     <entry file="file://$PROJECT_DIR$/features/My account/My acc.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="35" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="3" selection-end-column="35" />
+          <caret line="3" column="35" selection-start-line="2" selection-start-column="3" selection-end-line="3" selection-end-column="35" />
           <folding />
         </state>
       </provider>
@@ -721,7 +779,7 @@
     <entry file="file://$PROJECT_DIR$/features/step_definitions/common steps.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="117" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="9" selection-end-column="117" />
+          <caret line="9" column="117" selection-start-line="6" selection-start-column="1" selection-end-line="9" selection-end-column="117" />
           <folding />
         </state>
       </provider>
@@ -729,7 +787,7 @@
     <entry file="file://$PROJECT_DIR$/features/CLP/CLP.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -737,7 +795,7 @@
     <entry file="file://$PROJECT_DIR$/features/step_definitions/CLP.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -745,7 +803,7 @@
     <entry file="file://$PROJECT_DIR$/features/step_definitions/my_acc.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1071">
-          <caret line="63" column="3" lean-forward="false" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
+          <caret line="63" column="3" selection-start-line="63" selection-start-column="3" selection-end-line="63" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -753,7 +811,7 @@
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
           <folding />
         </state>
       </provider>
@@ -761,7 +819,7 @@
     <entry file="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/watir-webdriver-0.9.9/lib/watir-webdriver/elements/element.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3026">
-          <caret line="178" column="61" lean-forward="false" selection-start-line="178" selection-start-column="20" selection-end-line="178" selection-end-column="61" />
+          <caret line="178" column="61" selection-start-line="178" selection-start-column="20" selection-end-line="178" selection-end-column="61" />
           <folding />
         </state>
       </provider>
@@ -769,7 +827,7 @@
     <entry file="file://$PROJECT_DIR$/features/My account/My acc.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="43" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="43" />
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="43" />
           <folding />
         </state>
       </provider>
@@ -777,7 +835,7 @@
     <entry file="file://$PROJECT_DIR$/features/step_definitions/common steps.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
-          <caret line="36" column="68" lean-forward="false" selection-start-line="36" selection-start-column="68" selection-end-line="36" selection-end-column="68" />
+          <caret line="36" column="68" selection-start-line="36" selection-start-column="68" selection-end-line="36" selection-end-column="68" />
           <folding />
         </state>
       </provider>
@@ -785,7 +843,7 @@
     <entry file="file://$PROJECT_DIR$/features/step_definitions/my_acc.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="50" lean-forward="false" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="50" />
+          <caret line="1" column="50" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="50" />
           <folding />
         </state>
       </provider>
@@ -793,7 +851,7 @@
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -801,7 +859,7 @@
     <entry file="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/watir-webdriver-0.9.9/lib/watir-webdriver/elements/element.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3026">
-          <caret line="178" column="61" lean-forward="false" selection-start-line="178" selection-start-column="20" selection-end-line="178" selection-end-column="61" />
+          <caret line="178" column="61" selection-start-line="178" selection-start-column="20" selection-end-line="178" selection-end-column="61" />
           <folding />
         </state>
       </provider>
@@ -809,7 +867,7 @@
     <entry file="file://C:/Ruby23-x64/lib/ruby/gems/2.3.0/gems/watir-webdriver-0.9.9/lib/watir-webdriver/elements/element.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3026">
-          <caret line="178" column="61" lean-forward="false" selection-start-line="178" selection-start-column="20" selection-end-line="178" selection-end-column="61" />
+          <caret line="178" column="61" selection-start-line="178" selection-start-column="20" selection-end-line="178" selection-end-column="61" />
           <folding />
         </state>
       </provider>
@@ -818,7 +876,7 @@
     <entry file="file://$PROJECT_DIR$/features/step_definitions/my_acc.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="503">
-          <caret line="65" column="89" lean-forward="false" selection-start-line="65" selection-start-column="6" selection-end-line="65" selection-end-column="89" />
+          <caret line="65" column="89" selection-start-line="65" selection-start-column="6" selection-end-line="65" selection-end-column="89" />
           <folding />
         </state>
       </provider>
@@ -826,7 +884,7 @@
     <entry file="file://$PROJECT_DIR$/features/My account/My acc.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -834,7 +892,7 @@
     <entry file="file://$PROJECT_DIR$/features/CLP/CLP.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -842,7 +900,7 @@
     <entry file="file://$PROJECT_DIR$/features/step_definitions/CLP.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="24" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+          <caret line="24" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -850,7 +908,7 @@
     <entry file="file://$PROJECT_DIR$/features/step_definitions/HP.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
-          <caret line="26" column="3" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+          <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -858,44 +916,40 @@
     <entry file="file://$PROJECT_DIR$/features/HP/Hp.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="35" />
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/QV from HP.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/step_definitions/QV.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="52" column="81" lean-forward="false" selection-start-line="52" selection-start-column="81" selection-end-line="52" selection-end-column="81" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/QV from HP.png" />
     <entry file="file://$PROJECT_DIR$/features/step_definitions/common steps.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="39" lean-forward="false" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/features/QV from Hp/checkout flow.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="48" column="7" lean-forward="false" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
+        <state relative-caret-position="612">
+          <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/QV.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="81" selection-start-line="52" selection-start-column="81" selection-end-line="52" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
           <folding />
         </state>
       </provider>
