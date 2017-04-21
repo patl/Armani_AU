@@ -17,28 +17,28 @@ Feature: QV
         When user press on QV
         Then he see QV pop-up
         And verify elements on QV popup
-        Then user changed qnty/color
+        #Then user changed qnty/color
         And press on Add to cart button
         Then user verify the next popup after QV
         And press on go to my cart button
         When user is on My cart page
         Then verify that added product is disaplyed
-        Then user add Gift box to cart
-        And verify that Gift Box is addd to Order summary section
+        #Then user add Gift box to cart
+        #And verify that Gift Box is addd to Order summary section
         And press on secure checkout button
-        Then verify that 1checkout method step is disaplyed
+       # Then verify that 1checkout method step is disaplyed
         And press on proceed to checkout button as guest
-        When user is on 2Select your samples step
-        Then he select first sample by pressing on Add button
-        And verify that text is change from Add to remove
-        And verify that Sample item is added to your shopping cart
-        Then user press on Continue to contact details
-        When user is on 3Contact detail step
+       # When user is on 2Select your samples step
+        #Then he select first sample by pressing on Add button
+       # And verify that text is change from Add to remove
+       # And verify that Sample item is added to your shopping cart
+        #Then user press on Continue to contact details
+       # When user is on 3Contact detail step
         Then he fill shipping address First name
         And shipping address Last name
         And Company name
         And Street address
-        And Apt
+       #And Apt
         And select shipping state
         And entered shipping city
         And Post code
