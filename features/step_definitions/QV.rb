@@ -1,5 +1,5 @@
 When(/^user press on QV$/) do
-  @browser.element(:class, "b-shop_now-link").click
+  @browser.element(:xpath, "html/body/div[9]/div/div[3]/div/div/div[1]/ul/li[2]/div/div[7]/a[2]").click
 end
 
 Then(/^he see QV pop\-up$/) do
@@ -14,7 +14,11 @@ And(/^verify elements on QV popup$/) do
 Then(/^user changed qnty\/color$/) do
   @browser.element(:xpath, "//img[@alt='2']").wait_until_present.click
   #@browser.element(:xpath, "(//select[@name='quantity'])[2]").click
-  @browser.element(:xpath, "(//img[@alt='5'])[2]").wait_until_present.click
+
+  #@browser.element(:xpath, "(//img[@alt='5.5'])[2]").wait_until_present.click
+
+
+
 end
 
 And(/^press on Add to cart button$/) do
@@ -70,7 +74,11 @@ Then(/^verify that 1checkout method step is disaplyed$/) do
 end
 
 And(/^press on proceed to checkout button as guest$/) do
-  @browser.element(:name,"dwfrm_login_unregistered").click
+  @browser.element(:xpath, "html/body/div[4]/div/div/form/div[1]/div[2]/div[1]/div/div[1]/div[2]/div/div/div[1]/div[1]/div/div[2]/input").wait_until_present.send_keys ('oleksiy.boyko@osf-commerce.com')
+  @browser.element(:id, "dwfrm_login_password").wait_until_present.send_keys 'oleksiy.boyko@osf-commerc'
+  @browser.element(:name, "dwfrm_login_login").wait_until_present.click
+  @browser.element(:name, "dwfrm_checkout_sectionNext").wait_until_present.click
+
 end
 
 Then(/^he fill shipping address First name$/) do

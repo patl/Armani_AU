@@ -43,7 +43,7 @@ Feature: QV
         And entered shipping city
         And Post code
         And phone number
-        And fill shipping email address
+       # And fill shipping email address
         Then he press on OCntinue to shipping and payment button
         When he is on 4shipping and payment step
        
