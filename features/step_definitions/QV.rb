@@ -14,7 +14,7 @@ And(/^verify elements on QV popup$/) do
 Then(/^user changed qnty\/color$/) do
   @browser.element(:xpath, "//img[@alt='2']").wait_until_present.click
   #@browser.element(:xpath, "(//select[@name='quantity'])[2]").click
-  @browser.element(:xpath, "(//img[@alt='4'])[2]").wait_until_present.click
+  @browser.element(:xpath, "(//img[@alt='5'])[2]").wait_until_present.click
 end
 
 And(/^press on Add to cart button$/) do
